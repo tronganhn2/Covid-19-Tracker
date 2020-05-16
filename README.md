@@ -1,3 +1,7 @@
+## Covid-19 Tracker 
+
+This project is a web-app that is used to track Covid-19 data
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
